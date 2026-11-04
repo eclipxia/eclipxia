@@ -72,8 +72,29 @@ I build [RusherHack](https://rusherhack.org) plugins and themes, and spend far t
 
 ## ✏️ Preferred editor
 
-<p>
-  <a href="https://github.com/eclipxia/nvim"><img src="https://img.shields.io/badge/Neovim-57A143?style=for-the-badge&logo=neovim&logoColor=white" alt="Neovim"/></a>
-</p>
-
-Neovim is my daily driver. My Neovim dotfiles live in [eclipxia/nvim](https://github.com/eclipxia/nvim), and the rest of my setup is in [eclipxia/dotfiles](https://github.com/eclipxia/dotfiles).
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/eclipxia/nvim">Neovim</a></h3>
+      <p>My daily driver. My Neovim dotfiles, built up from kickstart.nvim into a setup I use for everything I write.</p>
+      <ul>
+        <li>Plugins pinned with a lockfile, plus custom snippets</li>
+        <li>Formatter configs for Java, C#, JavaScript and Lua</li>
+        <li>Install scripts for Linux and Windows</li>
+      </ul>
+      <img src="https://img.shields.io/badge/Lua-2C2D72?style=flat-square&logo=lua&logoColor=white" alt="Lua"/>
+      <img src="https://img.shields.io/badge/Neovim-57A143?style=flat-square&logo=neovim&logoColor=white" alt="Neovim"/>
+    </td>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/eclipxia/dotfiles">dotfiles</a></h3>
+      <p>The rest of my setup, from shell and terminal to Nix and package lists, so a fresh machine is quick to bring up.</p>
+      <ul>
+        <li>zsh, tmux, kitty and starship prompt</li>
+        <li>Nix config and Brewfiles</li>
+        <li>Install scripts, including Fedora</li>
+      </ul>
+      <img src="https://img.shields.io/badge/Shell-4EAA25?style=flat-square&logo=gnubash&logoColor=white" alt="Shell"/>
+      <img src="https://img.shields.io/badge/Nix-5277C3?style=flat-square&logo=nixos&logoColor=white" alt="Nix"/>
+    </td>
+  </tr>
+</table>
