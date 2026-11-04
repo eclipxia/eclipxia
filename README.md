@@ -69,3 +69,11 @@ I build [RusherHack](https://rusherhack.org) plugins and themes, and spend far t
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
 </p>
+
+## ✏️ Preferred editor
+
+<p>
+  <a href="https://github.com/eclipxia/nvim"><img src="https://img.shields.io/badge/Neovim-57A143?style=for-the-badge&logo=neovim&logoColor=white" alt="Neovim"/></a>
+</p>
+
+Neovim is my daily driver. My config is in [eclipxia/nvim](https://github.com/eclipxia/nvim).
