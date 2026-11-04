@@ -76,4 +76,4 @@ I build [RusherHack](https://rusherhack.org) plugins and themes, and spend far t
   <a href="https://github.com/eclipxia/nvim"><img src="https://img.shields.io/badge/Neovim-57A143?style=for-the-badge&logo=neovim&logoColor=white" alt="Neovim"/></a>
 </p>
 
-Neovim is my daily driver. My config is in [eclipxia/nvim](https://github.com/eclipxia/nvim).
+Neovim is my daily driver. My Neovim dotfiles live in [eclipxia/nvim](https://github.com/eclipxia/nvim), and the rest of my setup is in [eclipxia/dotfiles](https://github.com/eclipxia/dotfiles).
